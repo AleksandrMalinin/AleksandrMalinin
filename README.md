@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React Native, NodeJS, Golang**
 - 📄 Know about my experiences [CV](https://resume.io/r/vC5JK4eCK)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/bogart91/), [email](mailto:alexander.s.malinin@gmail.com)
-- 🌍 I speak English, Italian and Portuguese (a bit)
+- 🌍 I speak Russian, English, Italian and Portuguese (a bit 🙃)
 
 ---
 
