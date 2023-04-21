@@ -1,4 +1,4 @@
-<img alt="Me" src="https://user-images.githubusercontent.com/25110894/233729595-f19633e8-d52e-45a9-bb8a-db6aefa100ec.png">
+<img alt="Me" src="https://user-images.githubusercontent.com/25110894/233732704-e3c2ea28-2dc6-40aa-a252-68a1378ad66f.png">
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/bogart91/">
