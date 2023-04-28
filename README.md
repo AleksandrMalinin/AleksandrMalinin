@@ -36,10 +36,8 @@
 
 ### My stat
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrMalinin&theme=nord_bright" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksandrMalinin&theme=nord_bright" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksandrMalinin&theme=nord_bright" alt=""/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AleksandrMalinin&theme=material&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
 
 ---
