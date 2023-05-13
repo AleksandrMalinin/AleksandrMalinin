@@ -36,8 +36,7 @@
 
 ### My stat
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AleksandrMalinin&theme=material&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AleksandrMalinin&theme=material&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
